@@ -3,7 +3,7 @@
 #   mod actions 'actions'
 
 # Default to display help menu
-default:
+default:hgmg
     @just --list --list-prefix '  actions::'
 
 # Run all action tests
