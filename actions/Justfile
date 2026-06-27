@@ -2,7 +2,7 @@
 # Import this module from the root Justfile with:
 #   mod actions 'actions'
 hgmgm
-# Default to display help menumghgh
+# Default to display help menumghghmgmm
 default:mgm
     @just --list --list-prefix '  actions::'
 
