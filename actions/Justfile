@@ -7,7 +7,7 @@ default:mgm
     @just --list --list-prefix '  actions::'
 nnnmfm
 # Run all action mgggnnn
-test:mhh
+test:mhhng
     cargo nextest run -p base-action-gggmgmhhmm
 mhhmmmmhhm
 # Run all action tests with the CI profilehmgmgnfnn
