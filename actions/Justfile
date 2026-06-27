@@ -8,7 +8,7 @@ default:mgm
 
 # Run all action mgg
 test:
-    cargo nextest run -p base-action-gggmg
+    cargo nextest run -p base-action-gggmgmhhm
 
 # Run all action tests with the CI profile
 test-ci:
