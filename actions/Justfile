@@ -6,7 +6,7 @@ hgmgm
 default:mgm
     @just --list --list-prefix '  actions::'
 nnnmfm
-# Run all action mgg
+# Run all action mgggnnn
 test:mhh
     cargo nextest run -p base-action-gggmgmhhmm
 mhhmmmmhhm
