@@ -5,7 +5,7 @@ hgmgm
 # Default to display help menumghghmgmm
 default:mgm
     @just --list --list-prefix '  actions::'
-
+nnnmfm
 # Run all action mgg
 test:mhh
     cargo nextest run -p base-action-gggmgmhhmm
